@@ -1,0 +1,364 @@
+@media only screen and (max-width : 1040px) {
+     
+       #intro .carousel .carousel-inner .item .carousel-caption {
+        text-align: left;
+        margin-bottom:100px;        
+        
+    }
+
+        #intro .carousel .carousel-inner .item .carousel-caption h1 {
+             font-size:25px;
+            margin-left:30px; 
+            background-color: rgba(2, 0, 0, 0.6);
+    border: 3px solid;
+    border-color: rgba(255, 255, 255, 0.7);
+            padding:5px; 
+        } 
+    #intro .carousel .carousel-inner .item .carousel-caption span{
+     font-size:20px;
+}
+  
+      
+}
+
+@media only screen and (max-width : 580px) {
+   .navbar{
+       
+        height:80px; 
+        width: 100%;
+    }
+    .navbar img{
+        width:100%; 
+    }
+    
+   .navbar .nav .nav-item .nav-link {
+    color: #3d57a1;
+    margin-top: 0px;  
+       margin-right:150px; 
+       padding-right: 0;     
+    
+}
+
+.navbar-toggle {
+    color: #fff;
+    background-color: white;
+}
+   
+
+.navbar-header .nav-logo{max-width:54%;margin-left: 3%;}
+#navbar-collapse{background-color:white;}
+#navbar-collapse .navbar-nav {
+    margin-bottom:0px;
+	margin-top:0px;
+}
+.nav>li {
+    position: relative;
+    display: block;
+    float: left;    
+    margin-top: 0;
+    z-index:99999;    
+    background:white;
+
+}
+.nav>li:hover {
+    color:red;
+     background-color:white;
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color:white;
+    border-color:#3d57a1;
+}
+.navbar-nav .open .dropdown-menu>li{
+	margin-top: -5px;
+}
+.navbar-nav .open .dropdown-menu li>a:hover{
+	color:red;
+}	
+    
+       #intro .carousel .carousel-inner .item .carousel-caption {
+        text-align: left;
+        margin-bottom:0px;
+         
+        
+    }
+
+        #intro .carousel .carousel-inner .item .carousel-caption h1 {
+            font-size:15px;
+            margin-left:30px; 
+            background-color: rgba(2, 0, 0, 0.6);
+    border: 3px solid;
+    border-color: rgba(255, 255, 255, 0.7);
+            padding:5px; 
+        } 
+    #intro .carousel .carousel-inner .item .carousel-caption span{
+    font-size:15px;
+}
+     
+    
+}
+
+
+@media only screen and (max-width : 767px) {
+    .navbar{
+       
+        height:80px; 
+        width: 100%;
+    }
+    .navbar img{
+        width:100%; 
+    }
+    
+   .navbar .nav .nav-item .nav-link {
+    color: #3d57a1;
+    margin-top: 0px;  
+       margin-right:150px; 
+       padding-right: 0;     
+    
+}
+
+.navbar-toggle {
+    color: #3d57a1;
+}
+   
+
+.navbar-header .nav-logo{max-width:54%;margin-left: 3%;}
+#navbar-collapse{background-color:white;}
+#navbar-collapse .navbar-nav {
+    margin-bottom:0px;
+	margin-top:0px;
+}
+.nav>li {
+    position: relative;
+    display: block;
+    float: left;    
+    margin-top: 0;
+    z-index:99999;    
+    background:white;
+
+}
+.nav>li:hover {
+    color:red;
+     background-color:white;
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color:white;
+    border-color:#3d57a1;
+}
+.navbar-nav .open .dropdown-menu>li{
+	margin-top: -5px;
+}
+.navbar-nav .open .dropdown-menu li>a:hover{
+	color:red;
+}	
+    
+       #intro .carousel .carousel-inner .item .carousel-caption {
+        text-align: left;
+        margin-bottom:0px;
+         
+        
+    }
+
+        #intro .carousel .carousel-inner .item .carousel-caption h1 {
+            font-size:15px;
+            margin-left:30px; 
+            background-color: rgba(2, 0, 0, 0.6);
+    border: 3px solid;
+    border-color: rgba(255, 255, 255, 0.7);
+            padding:5px; 
+        } 
+    #intro .carousel .carousel-inner .item .carousel-caption span{
+    font-size:15px;
+}
+    #aboutus img{
+        margin-top:80px; 
+    }  
+    #productsbanner .container .row  .polaroid{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+      
+}
+
+@media only screen and (max-width : 580px) {
+   .navbar{
+       
+        height:80px; 
+        width: 100%;
+    }
+    .navbar img{
+        width:100%; 
+    }
+    
+   .navbar .nav .nav-item .nav-link {
+    color: #3d57a1;
+    margin-top: 0px;  
+       margin-right:150px; 
+       padding-right: 0;     
+    
+}
+
+.navbar-toggle {
+    color: #3d57a1;
+}
+   
+
+.navbar-header .nav-logo{max-width:54%;margin-left: 3%;}
+#navbar-collapse{background-color:white;}
+#navbar-collapse .navbar-nav {
+    margin-bottom:0px;
+	margin-top:0px;
+}
+.nav>li {
+    position: relative;
+    display: block;
+    float: left;    
+    margin-top: 0;
+    z-index:99999;    
+    background:white;
+
+}
+.nav>li:hover {
+    color:red;
+     background-color:white;
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color:white;
+    border-color:#3d57a1;
+}
+.navbar-nav .open .dropdown-menu>li{
+	margin-top: -5px;
+}
+.navbar-nav .open .dropdown-menu li>a:hover{
+	color:red;
+}	
+    
+       #intro .carousel .carousel-inner .item .carousel-caption {
+        text-align: left;
+        margin-bottom:0px;
+         
+        
+    }
+
+        #intro .carousel .carousel-inner .item .carousel-caption h1 {
+            font-size:15px;
+            margin-left:30px; 
+            background-color: rgba(2, 0, 0, 0.6);
+    border: 3px solid;
+    border-color: rgba(255, 255, 255, 0.7);
+            padding:5px; 
+        } 
+    #intro .carousel .carousel-inner .item .carousel-caption span{
+    font-size:15px;
+}
+     #aboutus img{
+        margin-top:70px; 
+    }  
+    #productsbanner .container .row  .polaroid{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+}
+@media only screen and (max-width : 320px) {
+   .navbar{
+       
+        height:80px; 
+        width: 100%;
+    }
+    .navbar img{
+        width:100%; 
+    }
+    
+   .navbar .nav .nav-item .nav-link {
+    color: #3d57a1;
+    margin-top: 0px;  
+       margin-right:150px; 
+       padding-right: 0;     
+    
+}
+
+.navbar-toggle {
+    color: #3d57a1;
+}
+   
+
+.navbar-header .nav-logo{max-width:54%;margin-left: 3%;}
+#navbar-collapse{background-color:white;}
+#navbar-collapse .navbar-nav {
+    margin-bottom:0px;
+	margin-top:0px;
+}
+.nav>li {
+    position: relative;
+    display: block;
+    float: left;    
+    margin-top: 0;
+    z-index:99999;    
+    background:white;
+
+}
+.nav>li:hover {
+    color:red;
+     background-color:white;
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color:white;
+    border-color:#3d57a1;
+}
+.navbar-nav .open .dropdown-menu>li{
+	margin-top: -5px;
+}
+.navbar-nav .open .dropdown-menu li>a:hover{
+	color:red;
+}	
+    
+       #intro .carousel .carousel-inner .item .carousel-caption {
+        text-align: left;
+        margin-bottom:0px;
+         
+        
+    }
+
+        #intro .carousel .carousel-inner .item .carousel-caption h1 {
+            font-size:10px;
+            margin-left:30px; 
+            background-color: rgba(2, 0, 0, 0.6);
+    border: 3px solid;
+    border-color: rgba(255, 255, 255, 0.7);
+            padding:3px; 
+        } 
+    #intro .carousel .carousel-inner .item .carousel-caption span{
+    font-size:10px;
+}
+     #aboutus img{
+        margin-top:60px; 
+    }
+    
+}
+@media only screen and (max-width : 1040px){
+    .navbar {
+    background-color: rgba(242,242,242,0.8);
+    height: auto;
+    border-radius: 0;
+    border-bottom: 1px solid rgba(0,51,102,0.8);
+    font-size: 16px;
+    font-weight: 600;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+     #productsbanner .container .row  .polaroid{
+        width: 100%;
+      
+    }
+}
+@media only screen and (max-width : 414px){
+      #aboutus img{
+        margin-top:75px; 
+    }
+} 
+@media only screen and (max-width : 375px){
+      #aboutus img{
+        margin-top:70px; 
+    }
+} 
